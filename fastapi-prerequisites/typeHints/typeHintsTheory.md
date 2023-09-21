@@ -22,7 +22,5 @@ Use **Union** to specify multiple possible types for a variable.
 ## Callable Types:
 You can annotate **functions as arguments or return values.**
 
-## Type Aliases:
-Define custom type aliases using TypeVar.
 
 Type hints improve code quality and help catch type-related errors during development, making your code more robust and easier to understand. While Python doesn't enforce these hints at runtime, various tools like **mypy** can check your code for type correctness based on these hints.
